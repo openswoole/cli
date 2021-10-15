@@ -1,0 +1,17 @@
+{
+    "name": "openswoole/cli",
+    "description": "Open Swoole CLI",
+    "keywords": ["swoole", "php", "openswoole"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Open Swoole Group",
+            "email": "hello@swoole.co.uk"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
